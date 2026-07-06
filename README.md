@@ -22,6 +22,14 @@ Features
 - Delete Member Record
 - Search Member 
 
+Project Modules
+
+- Member Management
+- Book Catalog
+- Borrowing
+- Returning
+
+
 
 
 
