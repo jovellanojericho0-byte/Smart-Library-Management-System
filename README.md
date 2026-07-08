@@ -33,8 +33,6 @@ Project Modules
 - Borrowing
 - Returning
 
-Add Book Reservations
-
 
 
 
